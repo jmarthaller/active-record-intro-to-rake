@@ -1,5 +1,6 @@
 require 'sqlite3'
 require 'pry'
+#require 'pry-byebug'
 
 require_relative "../lib/student.rb"
 
